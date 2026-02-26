@@ -1,1 +1,2 @@
-from app.routes import health, query
+from .crud import router
+from .health import router as health_router
