@@ -1,1 +1,1 @@
-from .schemas import ResponseModel, QueryRequest
+from .schemas import ResponseModel, QueryParams
